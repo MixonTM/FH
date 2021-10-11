@@ -9,9 +9,9 @@
 
 # FAQ
 **Is FH safe?**
-
-*Yes FH, is safe and undetected*
 ```
-Our team work very hard, and very smart to provide
-the safest experience to our users
+Yes FH, is safe and undetected.
+
+Our team work very hard to provide
+the safest experience to our users.
 ```
