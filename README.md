@@ -3,9 +3,9 @@
 
 # Supported games (So far)
 
-| Games          | Supported     | Undetected  |
-| ---------------|:-------------:| -----------:|
-| GMOD           |     True      |   True      |
+| Games          | Undetected  |
+| ---------------|:-----------:|
+| GMOD           |     True    |
 
 # FAQ
 **Is FH safe?**
