@@ -15,7 +15,3 @@
 Our team work very hard, and very smart to provide
 the safest experience to our users
 ```
-
-**Is FS optimized?**
-
-*Of course, we are using C++ 20 all around, and very good practices*
